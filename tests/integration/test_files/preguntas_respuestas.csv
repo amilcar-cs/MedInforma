@@ -1,0 +1,101 @@
+question,ground_truths
+¿Qué es el cáncer?,El cáncer es una enfermedad en la que las células del cuerpo crecen de manera descontrolada y pueden invadir otros tejidos.
+¿Cuáles son los síntomas del cáncer?,"Los síntomas varían pero pueden incluir pérdida de peso inexplicada, fiebre, fatiga, dolor y cambios en la piel."
+¿Qué es la diabetes?,La diabetes es una enfermedad crónica que afecta la forma en que el cuerpo convierte el azúcar (glucosa) en energía.
+¿Cuáles son los síntomas de la diabetes?,"Los síntomas incluyen sed excesiva, micción frecuente, hambre extrema, fatiga y visión borrosa."
+¿Qué es la hipertensión?,La hipertensión es una condición en la que la presión arterial en las arterias es consistentemente demasiado alta.
+¿Cuáles son los síntomas de la hipertensión?,"Muchas veces no hay síntomas, pero puede incluir dolores de cabeza, dificultad para respirar o sangrado nasal."
+¿Qué es el colesterol alto?,"El colesterol alto es una condición en la que hay niveles excesivos de colesterol en la sangre, lo que puede aumentar el riesgo de enfermedades cardíacas."
+¿Cómo se puede prevenir el cáncer?,"La prevención incluye no fumar, mantener una dieta saludable, hacer ejercicio regularmente y someterse a exámenes médicos periódicos."
+¿Qué es la gripe?,"La gripe es una infección respiratoria causada por el virus de la influenza, que provoca fiebre, dolor de cuerpo y fatiga."
+¿Cuáles son las diferencias entre el COVID-19 y la gripe?,"Ambas son infecciones respiratorias, pero COVID-19 es causado por el virus SARS-CoV-2 y puede tener síntomas más graves y afectar diferentes órganos."
+¿Cómo puedo mejorar mi dieta?,"Incluye más frutas, verduras, proteínas magras, granos enteros y reduce el consumo de azúcares y grasas saturadas."
+¿Qué es una dieta balanceada?,Una dieta balanceada incluye una variedad de alimentos en proporciones adecuadas para mantener una salud óptima.
+¿Qué es la fibra dietética y por qué es importante?,La fibra es una parte de los alimentos vegetales que el cuerpo no puede digerir. Es importante para la digestión y la prevención de enfermedades.
+¿Cuáles son los beneficios de una dieta rica en frutas y verduras?,"Las frutas y verduras son ricas en vitaminas, minerales y antioxidantes, y pueden reducir el riesgo de enfermedades crónicas."
+¿Qué es la dieta mediterránea?,"Es un patrón de alimentación basado en los hábitos tradicionales de los países mediterráneos, que incluye mucho aceite de oliva, frutas, verduras, nueces y pescado."
+¿Qué son los carbohidratos complejos?,"Los carbohidratos complejos son carbohidratos que se descomponen más lentamente en el cuerpo, proporcionando energía sostenida."
+¿Qué es una dieta baja en carbohidratos?,"Es una dieta que restringe el consumo de carbohidratos, enfocándose más en proteínas y grasas."
+¿Qué es el índice glucémico?,Es una medida de cómo los alimentos que contienen carbohidratos aumentan los niveles de glucosa en la sangre.
+¿Cuáles son las grasas saludables?,"Las grasas saludables incluyen grasas monoinsaturadas y poliinsaturadas, como las encontradas en el aceite de oliva, aguacates y pescados grasos."
+¿Qué es una dieta cetogénica?,"Es una dieta muy baja en carbohidratos y alta en grasas que pone al cuerpo en un estado de cetosis, donde quema grasa para obtener energía."
+¿Cuáles son los beneficios del ejercicio regular?,"Mejora la salud cardiovascular, fortalece los músculos, ayuda a mantener un peso saludable, mejora el estado de ánimo y aumenta la energía."
+¿Cuánto ejercicio debo hacer por semana?,"Los adultos deben hacer al menos 150 minutos de actividad aeróbica moderada o 75 minutos de actividad vigorosa cada semana, junto con ejercicios de fortalecimiento muscular."
+¿Qué es el ejercicio aeróbico?,"El ejercicio aeróbico es cualquier actividad que hace que el corazón lata más rápido y que se realice por un período prolongado, como correr, nadar o andar en bicicleta."
+¿Qué es el entrenamiento de fuerza?,"Es el uso de resistencia para contraer los músculos con el objetivo de aumentar la fuerza, la resistencia y el tamaño muscular."
+¿Qué es el entrenamiento de intervalos de alta intensidad (HIIT)?,Es una forma de ejercicio cardiovascular que alterna entre períodos cortos de actividad intensa y períodos de descanso o actividad de baja intensidad.
+¿Qué son los ejercicios de flexibilidad?,Son ejercicios que mejoran la capacidad de los músculos y las articulaciones para moverse a través de su rango completo de movimiento.
+¿Qué es el yoga?,"El yoga es una práctica que combina posturas físicas, ejercicios de respiración y meditación para mejorar la salud física y mental."
+¿Cuáles son los beneficios del estiramiento?,"El estiramiento mejora la flexibilidad, reduce el riesgo de lesiones, y puede aliviar el dolor muscular y mejorar la circulación."
+¿Qué es el entrenamiento funcional?,Es una forma de ejercicio que entrena los músculos para trabajar juntos y prepararlos para tareas diarias al simular movimientos comunes.
+¿Qué es el Pilates?,"Pilates es un sistema de ejercicios que enfoca en fortalecer el núcleo del cuerpo, mejorando la postura y la flexibilidad."
+¿Qué es la salud mental?,"La salud mental se refiere al bienestar emocional, psicológico y social. Afecta cómo pensamos, sentimos y actuamos."
+¿Cuáles son los síntomas de la depresión?,"Pueden incluir sentimientos persistentes de tristeza, pérdida de interés en actividades, cambios en el apetito y el sueño, y dificultades para concentrarse."
+¿Qué es la ansiedad?,"La ansiedad es una respuesta natural al estrés, pero cuando es excesiva o constante, puede interferir con la vida diaria."
+¿Cuáles son los síntomas de un ataque de pánico?,"Los síntomas incluyen palpitaciones, sudoración, temblores, sensación de falta de aire y miedo intenso."
+¿Qué es el estrés?,El estrés es una respuesta física y emocional a una demanda o desafío. Puede ser agudo (a corto plazo) o crónico (a largo plazo).
+¿Cómo puedo manejar el estrés?,"Técnicas de manejo del estrés incluyen ejercicio regular, meditación, respiración profunda, y mantener una dieta saludable."
+¿Qué es la meditación?,"La meditación es una práctica en la que se utiliza una técnica, como la concentración o la atención plena, para entrenar la mente y lograr un estado de calma y claridad."
+¿Qué es el insomnio?,"El insomnio es un trastorno del sueño que dificulta conciliar el sueño o permanecer dormido, afectando la calidad del sueño."
+¿Qué es la terapia cognitivo-conductual (TCC)?,La TCC es una forma de psicoterapia que ayuda a las personas a identificar y cambiar patrones de pensamiento y comportamiento negativos.
+¿Cómo puedo mejorar mi salud mental?,"Mantén una red de apoyo, practica la gratitud, haz ejercicio regularmente, duerme lo suficiente y busca ayuda profesional si es necesario."
+¿Cómo puedo prevenir la gripe?,"Lávate las manos frecuentemente, evita el contacto cercano con personas enfermas y considera vacunarte contra la gripe cada año."
+¿Qué es la vacuna contra el COVID-19?,Es una vacuna que ayuda a proteger contra la enfermedad causada por el virus SARS-CoV-2. Funciona estimulando el sistema inmunológico para que reconozca y combata el virus.
+¿Qué son las enfermedades crónicas?,"Son enfermedades de larga duración y progresión lenta, como la diabetes, la hipertensión y las enfermedades cardíacas."
+¿Cómo puedo prevenir las enfermedades cardíacas?,"Mantén una dieta saludable, haz ejercicio regularmente, no fumes y controla tu presión arterial y colesterol."
+¿Qué es la obesidad?,La obesidad es una condición en la que una persona tiene un exceso de grasa corporal que puede afectar negativamente su salud.
+¿Cuáles son los factores de riesgo para la diabetes tipo 2?,"Incluyen la obesidad, la falta de actividad física, una dieta poco saludable, la edad avanzada y antecedentes familiares de diabetes."
+¿Qué es la osteoporosis?,"La osteoporosis es una enfermedad en la que los huesos se debilitan y se vuelven frágiles, aumentando el riesgo de fracturas."
+¿Cómo puedo prevenir la osteoporosis?,"Asegúrate de obtener suficiente calcio y vitamina D, haz ejercicio regularmente y evita fumar y el consumo excesivo de alcohol."
+¿Qué es la enfermedad de Alzheimer?,"Es una enfermedad neurodegenerativa que causa problemas de memoria, pensamiento y comportamiento, y es la forma más común de demencia."
+¿Cuáles son los factores de riesgo para el cáncer de piel?,"Incluyen la exposición excesiva al sol, el uso de camas de bronceado, tener piel clara, y antecedentes familiares de cáncer de piel."
+¿Qué vacunas necesitan los niños?,"Los niños necesitan vacunas contra enfermedades como el sarampión, las paperas, la rubéola, la varicela, la difteria, el tétanos, la tos ferina, y la poliomielitis."
+¿Cómo puedo asegurarme de que mi hijo tenga una dieta saludable?,"Ofrece una variedad de alimentos, incluyendo frutas, verduras, granos enteros y proteínas magras, y limita los azúcares y las grasas saturadas."
+¿Qué es la fiebre en los niños y cómo puedo tratarla?,"La fiebre es una temperatura corporal elevada y puede ser tratada con descanso, líquidos y medicamentos para reducir la fiebre, como el paracetamol."
+¿Cuáles son los síntomas de la varicela?,"Los síntomas incluyen fiebre, cansancio y una erupción cutánea que se convierte en ampollas que pican."
+¿Qué es el asma infantil?,"El asma es una enfermedad crónica que inflama y estrecha las vías respiratorias, causando sibilancias, falta de aire y tos."
+¿Cómo puedo prevenir las caries en los niños?,"Asegúrate de que se cepillen los dientes dos veces al día, limiten los alimentos azucarados y visiten al dentista regularmente."
+¿Qué es la fiebre del heno?,"Es una alergia estacional que causa síntomas como estornudos, congestión nasal y picazón en los ojos."
+¿Qué es el TDAH?,El trastorno por déficit de atención e hiperactividad es un trastorno del desarrollo neurológico que afecta la capacidad de una persona para prestar atención y controlar el comportamiento impulsivo.
+¿Cuáles son los síntomas del TDAH en niños?,"Incluyen dificultad para prestar atención, hiperactividad, comportamiento impulsivo y problemas para seguir instrucciones."
+¿Qué es la vacunación infantil?,Es la administración de vacunas a los niños para protegerlos de enfermedades infecciosas graves.
+¿Qué es el control de la natalidad?,"Son métodos o dispositivos utilizados para prevenir el embarazo. Incluyen anticonceptivos hormonales, dispositivos intrauterinos (DIU), y métodos de barrera como los condones."
+¿Cuáles son los métodos anticonceptivos más efectivos?,"Los métodos más efectivos incluyen los implantes hormonales, los DIU, y la esterilización."
+¿Qué es la planificación familiar?,Es el proceso de tomar decisiones informadas sobre si y cuándo tener hijos y el uso de métodos anticonceptivos para implementar esas decisiones.
+¿Qué es una ETS?,Una enfermedad de transmisión sexual es una infección que se transmite de una persona a otra a través del contacto sexual.
+¿Cuáles son los síntomas comunes de las ETS?,"Pueden incluir dolor al orinar, secreción inusual, llagas genitales, y picazón."
+¿Qué es el VIH/SIDA?,El VIH es un virus que ataca el sistema inmunológico. El SIDA es la etapa más avanzada de la infección por VIH.
+¿Cómo puedo prevenir las ETS?,"Usando preservativos durante las relaciones sexuales, teniendo una pareja sexual estable y practicando el sexo seguro."
+¿Qué es el examen de Papanicolaou?,Es una prueba para detectar células anormales en el cuello uterino que pueden convertirse en cáncer.
+¿Qué es el síndrome de ovario poliquístico (SOP)?,"Es un trastorno hormonal común en mujeres en edad reproductiva que causa irregularidades menstruales, exceso de andrógenos y quistes en los ovarios."
+¿Cuáles son los síntomas del SOP?,"Incluyen periodos menstruales irregulares, crecimiento excesivo de vello, acné y dificultad para quedar embarazada."
+¿Cómo puedo mantenerme saludable a medida que envejezco?,"Mantén una dieta equilibrada, haz ejercicio regularmente, duerme bien y mantén actividades sociales y mentales."
+¿Qué es la artritis?,"Es una inflamación de las articulaciones que causa dolor y rigidez. Hay diferentes tipos, como la osteoartritis y la artritis reumatoide."
+¿Cuáles son los síntomas de la artritis?,"Dolor en las articulaciones, hinchazón, rigidez y disminución del rango de movimiento."
+¿Qué es la demencia?,"Es un término general para la pérdida de memoria, el lenguaje, la resolución de problemas y otras habilidades cognitivas lo suficientemente graves como para interferir con la vida diaria."
+¿Qué es la osteoporosis?,"Es una enfermedad que debilita los huesos, haciéndolos frágiles y más propensos a romperse."
+¿Cómo puedo prevenir la osteoporosis?,"Consumiendo suficiente calcio y vitamina D, haciendo ejercicio regularmente y evitando el tabaco y el alcohol en exceso."
+¿Qué es la hipertensión?,Es una condición en la que la presión de la sangre contra las paredes de las arterias es demasiado alta.
+¿Cómo puedo controlar la hipertensión?,"Mantén una dieta baja en sal, haz ejercicio regularmente, no fumes, y toma los medicamentos prescritos por tu médico."
+¿Qué es el glaucoma?,Es una enfermedad ocular que daña el nervio óptico y puede llevar a la pérdida de la visión.
+¿Cuáles son los síntomas del glaucoma?,"Pueden incluir pérdida de visión periférica, dolor ocular, enrojecimiento del ojo y visión borrosa."
+¿Qué debo hacer si alguien se está ahogando?,Realiza la maniobra de Heimlich para despejar las vías respiratorias.
+¿Qué es la RCP?,La resucitación cardiopulmonar (RCP) es una técnica de emergencia que combina compresiones torácicas con respiraciones para mantener el flujo de sangre y oxígeno en el cuerpo durante un paro cardíaco.
+¿Cómo realizo la RCP?,"Coloca tus manos en el centro del pecho de la persona y realiza compresiones fuertes y rápidas, intercaladas con respiraciones de rescate si estás entrenado."
+¿Qué hago si alguien tiene una herida abierta?,"Lávate las manos, aplica presión para detener el sangrado, limpia la herida y cúbrela con un vendaje estéril."
+¿Cómo trato una quemadura menor?,"Enfría la quemadura con agua corriente fría, cúbrela con un vendaje limpio y evita romper las ampollas."
+¿Qué debo hacer en caso de una fractura?,"Inmoviliza la zona afectada, aplica hielo para reducir la hinchazón y busca atención médica inmediatamente."
+¿Qué es un esguince y cómo se trata?,"Un esguince es una lesión en los ligamentos que rodean una articulación. Se trata con reposo, hielo, compresión y elevación (RICE)."
+¿Cómo puedo reconocer un derrame cerebral?,"Los síntomas incluyen debilidad repentina en un lado del cuerpo, dificultad para hablar, visión borrosa y dolor de cabeza intenso."
+¿Qué debo hacer si alguien tiene un ataque cardíaco?,"Llama a emergencias, haz que la persona se siente y se relaje, y administra RCP si deja de respirar."
+¿Cómo puedo prevenir accidentes en el hogar?,"Mantén los pisos libres de obstáculos, instala detectores de humo, usa alfombras antideslizantes y guarda los productos químicos y medicamentos fuera del alcance de los niños."
+¿Qué es la contaminación del aire?,Es la presencia de sustancias nocivas en el aire que pueden afectar la salud humana y el medio ambiente.
+¿Cómo afecta la contaminación del aire a la salud?,"Puede causar problemas respiratorios, enfermedades cardíacas y aumentar el riesgo de cáncer."
+¿Qué es el cambio climático?,"Es un cambio a largo plazo en los patrones de temperatura y clima de la Tierra, causado en gran parte por las actividades humanas."
+¿Cómo puedo reducir mi huella de carbono?,"Usa transporte público, recicla, reduce el consumo de energía y elige productos sostenibles."
+¿Qué es la seguridad alimentaria?,"Es la disponibilidad y acceso constante a alimentos suficientes, seguros y nutritivos para llevar una vida activa y saludable."
+¿Qué son los pesticidas y cómo pueden afectar la salud?,"Son sustancias químicas utilizadas para matar plagas, y su exposición puede causar problemas de salud como intoxicación y enfermedades crónicas."
+¿Qué es el agua potable segura?,Es el agua que es segura para beber y utilizar sin riesgo de enfermedades transmitidas por el agua.
+¿Qué es la contaminación del agua?,Es la presencia de sustancias nocivas en el agua que pueden afectar la salud humana y el ecosistema.
+¿Qué son los residuos electrónicos?,Son dispositivos electrónicos desechados que pueden contener sustancias tóxicas y deben ser reciclados de manera adecuada.
+¿Cómo puedo contribuir a un ambiente más saludable?,"Reduce, reutiliza y recicla, usa productos ecológicos, ahorra energía y agua, y apoya políticas ambientales."

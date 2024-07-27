@@ -1,0 +1,7 @@
+{
+    "EMBEDDING_MODEL": "text-multilingual-embedding-preview-0409",
+    "LLM_MODEL": "gemini-1.5-flash-001",
+    "EVAL_MODEL": "gemini-1.5-flash-001",
+    "BATCH_SIZE": 100
+}
+

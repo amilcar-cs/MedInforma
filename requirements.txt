@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-google-vertexai
+chromadb
+datasets
+ragas
+google-cloud-aiplatform
+google-auth
+unstructured
+unidecode
+markdownify
+unstructured[md]

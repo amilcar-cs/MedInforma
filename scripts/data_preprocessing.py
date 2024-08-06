@@ -13,7 +13,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 MEDLINE_PATH = os.path.join(PROJECT_ROOT, 'data', 'raw', 'medline.xml')
 METADATA_PATH = os.path.join(PROJECT_ROOT, 'data', 'processed')
-DATA_PATH = os.path.join(PROJECT_ROOT, 'data', 'processed', 'files_1')
+DATA_PATH = os.path.join(PROJECT_ROOT, 'data', 'processed', 'files')
 
 def normalize_filename(filename: str) -> str:
     """
@@ -127,6 +127,12 @@ def save_metadata(metadata: Dict[str, Dict[str, any]], save_path: str) -> None:
     with open(os.path.join(save_path, "medline_metadata.pkl"), "wb") as f:
         pickle.dump(metadata, f)
 
-if __name__ == "__main__":
+def main():
+    """
+    Main function to process the MEDLINE XML file, extract health topics, and save the metadata.
+    """
     medline_metadata = process_medline_xml(MEDLINE_PATH, DATA_PATH)
     save_metadata(medline_metadata, METADATA_PATH)
+
+if __name__ == "__main__":
+    main()

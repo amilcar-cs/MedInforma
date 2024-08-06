@@ -86,8 +86,7 @@ class Evaluator:
             return None
         
         combined_results = pd.concat(evaluation_results, ignore_index=True)
-        return combined_results
-            
+        return combined_results   
 
     def _evaluate_single_item(self, single_item_dataset: Dataset, max_attempts: int) -> pd.DataFrame:
         """

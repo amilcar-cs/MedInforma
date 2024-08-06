@@ -1,2 +1,4 @@
 configs/.env
 configs/service_account_key.json
+build
+medline_rag.egg-info

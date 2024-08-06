@@ -27,11 +27,11 @@ PROCESSED_DATA_PATH = os.path.abspath(os.path.join('..', '..', 'data', 'processe
 CONFIG_PATH = os.path.abspath(os.path.join('..', '..', 'configs', 'config.json'))
 
 # JSON file configuration load
-config = helpers.load_configs(CONFIG_PATH)
+config = helpers.load_json_config(CONFIG_PATH)
 
 # Initialisation of credentials and templates
 project_id = os.getenv('CLOUD_PROJECT')
-creds = helpers.load_credentials(project_id)
+creds = helpers.get_google_credentials(project_id)
 
 model = MedicalAssistantModel(
     credentials=creds, 
